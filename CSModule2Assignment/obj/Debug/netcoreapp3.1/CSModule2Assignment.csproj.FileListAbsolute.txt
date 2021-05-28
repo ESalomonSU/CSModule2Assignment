@@ -1,0 +1,12 @@
+/Users/salom11/Desktop/CSModule2Assignment/CSModule2Assignment/obj/Debug/netcoreapp3.1/CSModule2Assignment.csprojAssemblyReference.cache
+/Users/salom11/Desktop/CSModule2Assignment/CSModule2Assignment/obj/Debug/netcoreapp3.1/CSModule2Assignment.AssemblyInfoInputs.cache
+/Users/salom11/Desktop/CSModule2Assignment/CSModule2Assignment/obj/Debug/netcoreapp3.1/CSModule2Assignment.AssemblyInfo.cs
+/Users/salom11/Desktop/CSModule2Assignment/CSModule2Assignment/obj/Debug/netcoreapp3.1/CSModule2Assignment.csproj.CoreCompileInputs.cache
+/Users/salom11/Desktop/CSModule2Assignment/CSModule2Assignment/bin/Debug/netcoreapp3.1/CSModule2Assignment.deps.json
+/Users/salom11/Desktop/CSModule2Assignment/CSModule2Assignment/bin/Debug/netcoreapp3.1/CSModule2Assignment.runtimeconfig.json
+/Users/salom11/Desktop/CSModule2Assignment/CSModule2Assignment/bin/Debug/netcoreapp3.1/CSModule2Assignment.runtimeconfig.dev.json
+/Users/salom11/Desktop/CSModule2Assignment/CSModule2Assignment/bin/Debug/netcoreapp3.1/CSModule2Assignment.dll
+/Users/salom11/Desktop/CSModule2Assignment/CSModule2Assignment/bin/Debug/netcoreapp3.1/CSModule2Assignment.pdb
+/Users/salom11/Desktop/CSModule2Assignment/CSModule2Assignment/obj/Debug/netcoreapp3.1/CSModule2Assignment.dll
+/Users/salom11/Desktop/CSModule2Assignment/CSModule2Assignment/obj/Debug/netcoreapp3.1/CSModule2Assignment.pdb
+/Users/salom11/Desktop/CSModule2Assignment/CSModule2Assignment/obj/Debug/netcoreapp3.1/CSModule2Assignment.genruntimeconfig.cache

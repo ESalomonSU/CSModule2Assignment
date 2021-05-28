@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CSModule2Assignment/1.0.0": {
+        "runtime": {
+          "CSModule2Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSModule2Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
